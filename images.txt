@@ -5,3 +5,4 @@ registry.cn-hongkong.aliyuncs.com/oj-image/judge:1.6.1
 registry.cn-hongkong.aliyuncs.com/oj-image/backend:1.6.1
 1panel/openresty:1.21.4.3-3-3-focal
 xhofe/alist:v3.37.3
+charles94jp/ddns
