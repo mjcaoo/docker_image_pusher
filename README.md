@@ -27,6 +27,8 @@
 | ddns | charles94jp/ddns | latest |
 | ros | fishros2/ros | noetic-desktop-full |
 | ros | fishros2/ros | humble-desktop-full |
+| ubuntu | ubuntu | 20.04 |
+| ubuntu | ubuntu | 22.04 |
 
 ## Tips
 
