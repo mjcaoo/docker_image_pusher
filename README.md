@@ -27,6 +27,7 @@
 | ddns | charles94jp/ddns | latest |
 | ros | fishros2/ros | noetic-desktop-full |
 | ros | fishros2/ros | humble-desktop-full |
+|carla | carlasim/carla | 0.9.15 |
 
 ## Tips
 
