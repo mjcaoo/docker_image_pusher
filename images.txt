@@ -1,1 +1,1 @@
-kasmweb/ubuntu-jammy-desktop:1.17.0
+openexplorer/ai_toolchain_ubuntu_20_x5_cpu:v1.2.8

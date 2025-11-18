@@ -29,6 +29,7 @@
 | ros | fishros2/ros | humble-desktop-full |
 | carla | carlasim/carla | 0.9.15 |
 | pytorch | pytorch/pytorch | 2.5.1-cuda11.8-cudnn9-runtime |
+| ai toolchain(x5_cpu) | openexplorer/ai_toolchain_ubuntu_20_x5_cpu| v1.2.8 |
 
 ## Tips
 
