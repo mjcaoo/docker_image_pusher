@@ -1,1 +1,5 @@
-openexplorer/ai_toolchain_ubuntu_20_x5_cpu:v1.2.8
+langgenius/dify-api:1.14.2
+langgenius/dify-web:1.14.2
+langgenius/dify-sandbox:0.2.15
+langgenius/dify-plugin-daemon:0.6.1-local
+langgenius/qdrant:v1.8.3
